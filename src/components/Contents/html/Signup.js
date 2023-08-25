@@ -46,7 +46,7 @@ const SignUp = () => {
         axios.post('https://63aa9f0e7d7edb3ae62c5cea.mockapi.io/user', formData)
             .then((response) => {
                 alert('Sign up success!');
-                window.location.href = "/login";
+                window.location.href = "/home";
                 setRegistrationSuccess(true);
             })
             .catch((error) => {
@@ -105,6 +105,7 @@ const SignUp = () => {
                                     name="confirmPassword"
                                     value={formData.confirmPassword}
                                     onChange={handleChange}
+                                    placeholder='confirm password'
                                     required />
                             </div>
                             <div className="button">

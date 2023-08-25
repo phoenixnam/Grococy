@@ -18,7 +18,7 @@ const Features = () => {
                     <img src="https://media.cooky.vn/images/blog-2016/5-cach-chon-rau-cu-qua-tuoi-ngon-2.jpg" alt="" />
                     <h3>Fresh and organic</h3>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
-
+                    Natus nam veritatis voluptatem ut ab consectetur voluptate laboriosam veniam, est fugiat quidem unde! Libero illo reiciendis nulla
                         est fugiat quidem unde! Libero illo reiciendis nulla deleniti minus cupiditate doloribus!</p>
                     <a href="#" className="btn"> read more</a>
                 </div>

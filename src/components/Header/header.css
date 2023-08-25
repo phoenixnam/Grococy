@@ -32,6 +32,7 @@ color: #1A1A1A;
 .header .icons {
     display: flex;
     align-items: center;
+    cursor: pointer
 }
 .header .icons div {
     height: 4rem;
@@ -49,6 +50,10 @@ color: #1A1A1A;
     background-color: orange;
     color: #fff;
 }
+  .logout:hover {
+    color: #fff; 
+    background-color: orange;
+  }
 
 #menu-btn{
     display: none;
@@ -224,20 +229,21 @@ color: #1A1A1A;
         font-size: 55%;
     }
     .header .search-form{
-        top: 4%;
+        top: 20%;
     }
     .header .shopping-cart{
-        top: 4%;
+        top: 20%;
     }
    
 }
+
 @media (max-width: 768px){
     #menu-btn{
         display: inline-block;
     }
     .header .navbar {
         position: absolute;
-        top: 12%; right: -2000%;
+        top: 13%; right: -2000%;
         width: 30rem;
         box-shadow: var(--box-shadow);
         border-radius: .5rem;
@@ -263,6 +269,8 @@ color: #1A1A1A;
     }
 
 }
+
+
 @media (max-width: 450px){
     html{
         font-size: 50%;
@@ -282,4 +290,19 @@ color: #1A1A1A;
    
 }
 
+
+@media (max-width: 375){
+    .login{
+        width: 100%;
+        font-size: 14px;
+        padding: 2px 2px;
+    }
+    .text{
+        margin-left: 4px;
+        font-size: 12px;
+    }
+    .text .register{
+        text-align: center;
+    }
+  }
 

@@ -11,14 +11,14 @@ const Blogs = () => {
             <h1 className="heading">our <span>blogs</span></h1>
             <div className="box-container">
                 <div className="box">
-                    <img src="https://cdn.tgdd.vn/Files/2018/07/27/1104673/co-phai-an-nhieu-rau-cu-la-tot-202112301617596948.jpg" alt=""/>
+                    <img src="https://photo-cms-tpo.epicdn.me/w890/Uploaded/2023/rkznae/2020_01_08/foody_mobile_rau_sach1_jpg_670_635719445207028825_SUBP.jpg" alt=""/>
                     <div className="content">
                         <div className="icons">
                             <a href=""><i className="fas fa-user"><FontAwesomeIcon icon={faUser} /></i>by user</a>
-                            <a href=""><i className="fas fa-calendar"><FontAwesomeIcon icon={faCalendar} /></i>1st may, 2021</a>
+                            <a href=""><i className="fas fa-calendar"><FontAwesomeIcon icon={faCalendar} /></i>1st may, 2023</a>
                         </div>
-                        <h3>Fresh and organic vegitable and fruits</h3>
-                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Porro, illo velit nihil adipisci ut optio, nulla sunt cum non dolore esse</p>
+                        <h3 style={{fontSize: '16px'}}>Fresh and organic vegitable and fruits</h3>
+                        <p style={{fontSize: '14px'}}>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Porro, illo velit nihil adipisci ut optio, nulla sunt cum non dolore esse</p>
                     </div>
                 </div>
                 <div className="box">
@@ -26,10 +26,10 @@ const Blogs = () => {
                     <div className="content">
                         <div className="icons">
                             <a href=""><i className="fas fa-user"><FontAwesomeIcon icon={faUser} /></i>by user</a>
-                            <a href=""><i className="fas fa-calendar"><FontAwesomeIcon icon={faCalendar} /></i>1st may, 2021</a>
+                            <a href=""><i className="fas fa-calendar"><FontAwesomeIcon icon={faCalendar} /></i>1st may, 2023</a>
                         </div>
-                        <h3>Fresh and organic vegitable and fruits</h3>
-                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Porro, illo velit nihil adipisci ut optio, nulla sunt cum non dolore esse</p>
+                        <h3 style={{fontSize: '16px'}}>Fresh and organic vegitable and fruits</h3>
+                        <p style={{fontSize: '14px'}}>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Porro, illo velit nihil adipisci ut optio, nulla sunt cum non dolore esse</p>
                     </div>
                 </div>
                 <div className="box">
@@ -37,10 +37,10 @@ const Blogs = () => {
                     <div className="content">
                         <div className="icons">
                             <a href=""><i className="fas fa-user"><FontAwesomeIcon icon={faUser} /></i>by user</a>
-                            <a href=""><i className="fas fa-calendar"><FontAwesomeIcon icon={faCalendar} /></i>1st may, 2021</a>
+                            <a href=""><i className="fas fa-calendar"><FontAwesomeIcon icon={faCalendar} /></i>1st may, 2023</a>
                         </div>
-                        <h3>Fresh and organic vegitable and fruits</h3>
-                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Porro, illo velit nihil adipisci ut optio, nulla sunt cum non dolore esse</p>
+                        <h3 style={{fontSize: '16px'}}>Fresh and organic vegitable and fruits</h3>
+                        <p style={{fontSize: '14px'}}>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Porro, illo velit nihil adipisci ut optio, nulla sunt cum non dolore esse</p>
                     </div>
                 </div>
             </div>

@@ -2,14 +2,14 @@
     margin-top: 80px;
     width: 33%;
     background-color: #fff;
-    padding: 80px 12px 12px 80px;
+    padding: 80px 12px 4px 40px;
     box-shadow: 0 .5rem 1rem rgba(0,0,0,.1);
     margin-left: auto; margin-right: auto;
     font-weight: 500;
     font-size: 16px;
 }
 label{
-    margin-left: 40px
+    margin-left: 16px
 }
 .input{
     margin-left: 16px;
@@ -40,10 +40,10 @@ label{
 }
 
 .email-login .input{
-    margin-left: 51px;
+    margin-left: 16px;
 }
 .button-login {
-    margin-left: 160px ;
+    margin-left: 200px ;
 }
 .button-login .btn-login{
     padding-left: 24px;
@@ -62,24 +62,22 @@ label{
 .text{
     --tw-text-opacity: 1;
     color: rgb(156 163 175 / var(--tw-text-opacity)); 
-    margin-left: 100px;
-    margin-top: 0.5rem/* 8px */;
+    margin-left: 140px;
+    margin-top: 0.5rem;
 }
 
 .text .register{
     --tw-text-opacity: 1;
-    color: rgb(37 99 235 / var(--tw-text-opacity));
+    color: #8a2bc2;
 }
 
-/* Responsive styles */
 @media (max-width: 768px) {
     .login {
-      width: 80%;
-      padding: 40px;
+      width: 30%;
     }
   
     .input {
-      width: 100%;
+      width: 40%;
     }
   
     .button-login {
@@ -88,14 +86,6 @@ label{
     }
   }
 
-  @media (max-width: 450px){
-    .login{
-        width: 90%;
-        font-size: 14px;
-    }
-    .input{
-        width: 30%
-    }
-  }
+
 
  

@@ -75,7 +75,7 @@ const Header = ({ handleLogout }) => {
                     <div className="" id="search-btn" onClick={handleSearchClick}><FontAwesomeIcon icon={faMagnifyingGlass} /></div>
                     <div className="" id="cart-btn" onClick={handleCartClick}><FontAwesomeIcon icon={faBagShopping} /></div>
                     <div className="" id="login-btn" onClick={handleLoginClick}><FontAwesomeIcon icon={faUser} /></div>
-                    <div onClick={handleLogoutClick}><FontAwesomeIcon icon={faRightFromBracket} style={{ color: "#f38a12" }} /></div>
+                    <div onClick={handleLogoutClick}><FontAwesomeIcon className='logout' icon={faRightFromBracket} /></div>
 
                 </div>
                 <form action="" className={`search-form ${searchFormActive ? 'active' : ''}`}>

@@ -27,6 +27,9 @@
     color: #666;
     padding: 1rem 0;
 }
+.footer .box-container .box a:hover{
+    color: orange;
+}
 
 .footer .box-container .box .links FontAwesomeIcon{
     color:  #ff7800;
@@ -42,7 +45,7 @@
 
 .footer .box-container .box .share {
     display: flex;
-    justify-content: center;
+    justify-content: start;
     align-items: center; 
 }
 
@@ -73,7 +76,7 @@
 
 
 .footer .box-container .box .share a:hover {
-    background-color:  #ff7800;
+    background-color:  #fff;
     color: #fff;
 }
 

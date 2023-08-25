@@ -23,20 +23,20 @@ const Footer = () => {
                 </div>
                 <div className="box">
                     <h3>contact infor</h3>
-                    <a href="#" className="links"><FontAwesomeIcon className='color' icon={faPhone} />+84 954 987 888</a>
-                    <a href="#" className="links"><FontAwesomeIcon className='color' icon={faPhone} />+84 954 987 888</a>
-                    <a href="#" className="links"><FontAwesomeIcon className='color' icon={faEnvelope} />phuong@gmail.com</a>
-                    <a href="#" className="links"><FontAwesomeIcon className='color' icon={faMapMarkerAlt} />Da Nang, Vietnam</a>
+                    <a href="#" className="links"><FontAwesomeIcon className='color' style={{marginRight: '8px'}} icon={faPhone} />+84 954 987 888</a>
+                    <a href="#" className="links"><FontAwesomeIcon className='color' style={{marginRight: '8px'}}  icon={faPhone} />+84 954 987 888</a>
+                    <a href="#" className="links"><FontAwesomeIcon className='color' style={{marginRight: '8px'}}  icon={faEnvelope} />phuong@gmail.com</a>
+                    <a href="#" className="links"><FontAwesomeIcon className='color' style={{marginRight: '8px'}}  icon={faMapMarkerAlt} />Da Nang, Vietnam</a>
                 </div>
 
                 <div className="box">
                     <h3>quick links</h3>
-                    <a href="#" className="links"><FontAwesomeIcon className='color' icon={faArrowRight} />home</a>
-                    <a href="#" className="links"><FontAwesomeIcon className='color' icon={faArrowRight} />features</a>
-                    <a href="#" className="links"><FontAwesomeIcon className='color' icon={faArrowRight} />products</a>
-                    <a href="#" className="links"><FontAwesomeIcon className='color' icon={faArrowRight} />categories</a>
-                    <a href="#" className="links"><FontAwesomeIcon className='color' icon={faArrowRight} />review</a>
-                    <a href="#" className="links"><FontAwesomeIcon className='color' icon={faArrowRight} />blogs</a>
+                    <a href="#" className="links"><FontAwesomeIcon className='color' style={{marginRight: '8px'}}  icon={faArrowRight} />home</a>
+                    <a href="#" className="links"><FontAwesomeIcon className='color' style={{marginRight: '8px'}}  icon={faArrowRight} />features</a>
+                    <a href="#" className="links"><FontAwesomeIcon className='color' style={{marginRight: '8px'}}  icon={faArrowRight} />products</a>
+                    <a href="#" className="links"><FontAwesomeIcon className='color' style={{marginRight: '8px'}}  icon={faArrowRight} />categories</a>
+                    <a href="#" className="links"><FontAwesomeIcon className='color' style={{marginRight: '8px'}}  icon={faArrowRight} />review</a>
+                    <a href="#" className="links"><FontAwesomeIcon className='color' style={{marginRight: '8px'}}  icon={faArrowRight} />blogs</a>
                 </div>
                 <div className="box">
                     <h3>newsletter</h3>
@@ -46,7 +46,7 @@ const Footer = () => {
                     <img src="https://www.pngitem.com/pimgs/m/179-1792550_payment-methods-images-png-transparent-png.png" alt="" className="payment-img" />
                 </div>
             </div>
-            <div className="credit">created by <span>mr. web designer</span> all rights reserved</div>
+            <div className="credit">created by <span>Phuong</span> all rights reserved</div>
         </section>
     );
 }

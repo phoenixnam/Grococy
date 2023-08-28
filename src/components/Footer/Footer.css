@@ -18,7 +18,7 @@
 }
 
 .footer .box-container .box h3 {
-    color:  #ff7800;
+    color:  var(--black);
 }
 
 .footer .box-container .box .links{

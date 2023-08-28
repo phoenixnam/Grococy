@@ -17,7 +17,7 @@
     padding: 1rem 0;
 }
 
-.footer .box-container .box h3 FontAwesomeIcon{
+.footer .box-container .box h3 {
     color:  #ff7800;
 }
 
@@ -84,7 +84,7 @@
     border: none;
     margin: .7rem 0;
     padding: 1rem;
-    background-color: #eee;
+    background-color: #eeeeee;
     font-size: 1.5rem;
     color: #130f40;
     text-transform: none;

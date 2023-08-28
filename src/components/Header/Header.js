@@ -16,7 +16,7 @@ const Header = ({ handleLogout }) => {
 
     const handleSearchClick = () => {
         setSearchFormActive(!searchFormActive);
-        setMenuActive(false);
+        setMenuActive (false);
         setShoppingCartActive(false);
         setLoginFormActive(false);
     };
@@ -45,7 +45,7 @@ const Header = ({ handleLogout }) => {
     };
 
     const handleLogoutClick = () => {
-        handleLogout(); // Call the handleLogout function from props
+        handleLogout(); 
     };
 
     const handleScroll = () => {

@@ -35,7 +35,7 @@ const Footer = () => {
                     <a href="#" className="links"><FontAwesomeIcon className='color' style={{marginRight: '8px'}}  icon={faArrowRight} />features</a>
                     <a href="#" className="links"><FontAwesomeIcon className='color' style={{marginRight: '8px'}}  icon={faArrowRight} />products</a>
                     <a href="#" className="links"><FontAwesomeIcon className='color' style={{marginRight: '8px'}}  icon={faArrowRight} />categories</a>
-                    <a href="#" className="links"><FontAwesomeIcon className='color' style={{marginRight: '8px'}}  icon={faArrowRight} />review</a>
+                    <a href="#" className="links"><FontAwesomeIcon className='color' style={{marginRight: '8.25px'}}  icon={faArrowRight} />review</a>
                     <a href="#" className="links"><FontAwesomeIcon className='color' style={{marginRight: '8px'}}  icon={faArrowRight} />blogs</a>
                 </div>
                 <div className="box">

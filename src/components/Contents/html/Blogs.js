@@ -29,11 +29,11 @@ const Blogs = () => {
                             <a href=""><i className="fas fa-calendar"><FontAwesomeIcon icon={faCalendar} /></i>1st may, 2023</a>
                         </div>
                         <h3 style={{fontSize: '16px'}}>Fresh and organic vegitable and fruits</h3>
-                        <p style={{fontSize: '14px'}}>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Porro, illo velit nihil adipisci ut optio, nulla sunt cum non dolore esse</p>
+                        <p style={{fontSize: '13px'}}>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Porro, illo velit nihil adipisci ut optio, nulla sunt cum non dolore esse</p>
                     </div>
                 </div>
                 <div className="box">
-                    <img src="https://kenh14cdn.com/2016/veggies-1455247910474.jpg" alt=""/>
+                    <img src="https://kenh14cdn.com/2016/veggies-1455247910474.jpg" alt="" />
                     <div className="content">
                         <div className="icons">
                             <a href=""><i className="fas fa-user"><FontAwesomeIcon icon={faUser} /></i>by user</a>

@@ -241,7 +241,7 @@
 }
 
 .blogs .box-container .box .content .icons a i{
-    color: var(--orange);
+    color: orange;
     padding-right: .5rem;
 }
 

@@ -4,11 +4,9 @@ import Header from '../../Header/Header';
 
 function Main() {
   const [loggedIn, setLoggedIn] = useState(false);
-
   const handleLogout = () => {
     setLoggedIn(false);
   }
-
   return (
     <>
       <Login handleLogout={handleLogout} />

@@ -7,9 +7,6 @@ import {
   faStar,
   faStarHalfAlt
 } from "@fortawesome/free-solid-svg-icons";
-
-
-
 class Review extends Component {
   // componentDidMount() {
   //   const swiper = new Swiper(".review-slider", {

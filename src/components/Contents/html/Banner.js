@@ -8,7 +8,7 @@ const Banner =()=>{
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
                     Maxime quasi ducimus inventore voluptatibus consequatur nostrum accusantium,
                     similique quidem explicabo molestias ab officia, laboriosam ullam, veritatis laudantium ipsa
-                    temporibus voluptas. Excepturi.</p>
+                    temporibus voluptas. Excepturi. Lorem</p>
                 <a href="#" className="btn">Shop now</a>
             </div>
         </section>

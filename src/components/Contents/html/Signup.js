@@ -11,7 +11,6 @@ const SignUp = () => {
     });
 
     const [isRegistrationSuccess, setRegistrationSuccess] = useState(false);
-
     const handleChange = (event) => {
         const { name, value } = event.target;
         setFormData((prevFormData) => ({

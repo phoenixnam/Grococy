@@ -24,7 +24,7 @@ const Features = () => {
                 </div>
                 <div className="box">
                     <img src="http://soyte.hatinh.gov.vn/upload/1000030/20171026/f1c951b0c583dfafc0f6e9a514fd7ec3106d021t3098l0.jpg"
-                        alt="" />
+                        alt=""/>
                     <h3>Fresh and organic</h3>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
                         Natus nam veritatis voluptatem ut ab consectetur voluptate laboriosam veniam,

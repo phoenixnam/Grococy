@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Grococy/static/css/main.c304febd.css",
+    "main.js": "/Grococy/static/js/main.e23dffa3.js",
+    "static/js/787.3adb45fa.chunk.js": "/Grococy/static/js/787.3adb45fa.chunk.js",
+    "index.html": "/Grococy/index.html",
+    "main.c304febd.css.map": "/Grococy/static/css/main.c304febd.css.map",
+    "main.e23dffa3.js.map": "/Grococy/static/js/main.e23dffa3.js.map",
+    "787.3adb45fa.chunk.js.map": "/Grococy/static/js/787.3adb45fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c304febd.css",
+    "static/js/main.e23dffa3.js"
+  ]
+}
